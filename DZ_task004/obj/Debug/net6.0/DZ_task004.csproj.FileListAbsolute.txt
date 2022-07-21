@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\C_sharp_seminar8new\DZ_task004\obj\Debug\net6.0\DZ_task004.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\C_sharp_seminar8new\DZ_task004\obj\Debug\net6.0\DZ_task004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\C_sharp_seminar8new\DZ_task004\obj\Debug\net6.0\DZ_task004.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\C_sharp_seminar8new\DZ_task004\obj\Debug\net6.0\DZ_task004.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\C_sharp_seminar8new\DZ_task004\obj\Debug\net6.0\DZ_task004.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\C_sharp_seminar8new\DZ_task004\bin\Debug\net6.0\DZ_task004.exe
+C:\Users\Пользователь\Desktop\C_sharp_seminar8new\DZ_task004\bin\Debug\net6.0\DZ_task004.deps.json
+C:\Users\Пользователь\Desktop\C_sharp_seminar8new\DZ_task004\bin\Debug\net6.0\DZ_task004.runtimeconfig.json
+C:\Users\Пользователь\Desktop\C_sharp_seminar8new\DZ_task004\bin\Debug\net6.0\DZ_task004.dll
+C:\Users\Пользователь\Desktop\C_sharp_seminar8new\DZ_task004\bin\Debug\net6.0\DZ_task004.pdb
+C:\Users\Пользователь\Desktop\C_sharp_seminar8new\DZ_task004\obj\Debug\net6.0\DZ_task004.dll
+C:\Users\Пользователь\Desktop\C_sharp_seminar8new\DZ_task004\obj\Debug\net6.0\refint\DZ_task004.dll
+C:\Users\Пользователь\Desktop\C_sharp_seminar8new\DZ_task004\obj\Debug\net6.0\DZ_task004.pdb
+C:\Users\Пользователь\Desktop\C_sharp_seminar8new\DZ_task004\obj\Debug\net6.0\DZ_task004.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\C_sharp_seminar8new\DZ_task004\obj\Debug\net6.0\ref\DZ_task004.dll
